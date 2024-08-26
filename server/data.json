@@ -1,0 +1,670 @@
+{
+  "userInfo":  {
+    "code": 200,
+    "message": "获取成功",
+    "data": {
+      "name": "小明",
+      "phone": 18878767676
+    },
+    "success": true
+  },
+
+  "swiper-data":  {
+    "code": 200,
+    "message": "获取成功",
+    "data": [
+      {
+        "id": 572,
+        "type": 1,
+        "img_url": "/images/1.jpeg",
+        "click_url": "/pages/movieDetail/index?hasBuy=1&movieId=1478217",
+        "weigh": 23,
+        "createTime": "2024-08-15 15:16:43",
+        "client": 2,
+        "clickType": 1,
+        "status": 1
+      },
+      {
+        "id": 570,
+        "type": 1,
+        "img_url": "/images/1.jpeg",
+        "click_url": "/pages/movieDetail/index?hasBuy=1&movieId=1477096",
+        "weigh": 22,
+        "createTime": "2024-08-15 15:08:57",
+        "client": 2,
+        "clickType": 1,
+        "status": 1
+      },
+      {
+        "id": 568,
+        "type": 1,
+        "img_url": "/images/1.jpeg",
+        "click_url": "/pages/movieDetail/index?hasBuy=1&movieId=3212",
+        "weigh": 21,
+        "createTime": "2024-08-15 15:08:16",
+        "client": 2,
+        "clickType": 1,
+        "status": 1
+      },
+      {
+        "id": 566,
+        "type": 1,
+        "img_url": "/images/1.jpeg",
+        "click_url": "/pages/movieDetail/index?hasBuy=1&movieId=1277608",
+        "weigh": 20,
+        "createTime": "2024-08-15 15:06:41",
+        "client": 2,
+        "clickType": 1,
+        "status": 1
+      }
+    ],
+    "success": true
+  },
+
+  "get-nav-list": {
+    "code": 200,
+    "message": "获取成功",
+    "data": [
+      {
+        "name": "取票码",
+        "imgUrl": "/images/nav/nav-1.jpeg"
+      },
+      {
+        "name": "我的订单",
+        "imgUrl": "/images/nav/nav-2.jpeg"
+      },
+      {
+        "name": "优惠券",
+        "imgUrl": "/images/nav/nav-3.jpeg"
+      },
+      {
+        "name": "客服",
+        "imgUrl": "/images/nav/nav-4.jpeg"
+      }
+    ],
+    "success": true
+  },
+
+  "get-search-list":{
+    "code": 200,
+    "message": "获取成功",
+    "data": {
+      "list": [
+        {
+          "id": 593516962,
+          "showId": 1477096,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i2/O1CN01bknrYB1w6fwwwb9DC_!!6000000006259-0-alipicbeacon.jpg",
+          "likeNum": 139009,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/583073631253642701495336845/v.f42906.mp4",
+          "poster": null,
+          "duration": 119,
+          "language": "",
+          "country": "美国",
+          "type": "科幻,恐怖",
+          "leadingRole": "卡莉·史派妮,戴维·荣松,阿奇·雷诺,伊莎贝拉·默塞德,斯派克·费恩,吴爱玲",
+          "director": "费德·阿尔瓦雷兹",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "异形：夺命舰",
+          "remark": "9.0",
+          "features": null,
+          "openDay": "2024-08-16 00:00:00",
+          "openTime": "2024-08-16 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [],
+          "actorList": [
+
+          ],
+          "likeNumStr": "13.9万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i2/O1CN01bknrYB1w6fwwwb9DC_!!6000000006259-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i2/O1CN01bknrYB1w6fwwwb9DC_!!6000000006259-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516960,
+          "showId": 1512987,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i3/O1CN01XWDpi427SchukhpYp_!!6000000007796-0-alipicbeacon.jpg",
+          "likeNum": 245353,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "2D",
+          "videoUrl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/f276feb41397757890504965046/v.f42905.mp4",
+          "poster": null,
+          "duration": 111,
+          "language": "",
+          "country": "日本",
+          "type": "动作,爱情,喜剧,动画",
+          "leadingRole": "高山南,山崎和佳奈,小山力也,山口胜平",
+          "director": "永冈智佳",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "名侦探柯南：百万美元的五棱星",
+          "remark": "9.0",
+          "features": null,
+          "openDay": "2024-08-16 00:00:00",
+          "openTime": "2024-08-16 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "24.5万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i3/O1CN01XWDpi427SchukhpYp_!!6000000007796-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i3/O1CN01XWDpi427SchukhpYp_!!6000000007796-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516964,
+          "showId": 1515745,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i4/O1CN01vzguDj1jOSJrZB5WW_!!6000000004538-2-alipicbeacon.png",
+          "likeNum": 367981,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/ca0851231253642701493853861/v.f42905.mp4",
+          "poster": null,
+          "duration": 133,
+          "language": "",
+          "country": "中国大陆",
+          "type": "喜剧,剧情",
+          "leadingRole": "沈腾,马丽,史彭元,萨日娜,肖帛辰,张子栋,李嘉琦",
+          "director": "闫非, 彭大魔",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "抓娃娃",
+          "remark": "9.4",
+          "features": null,
+          "openDay": "2024-07-16 00:00:00",
+          "openTime": "2024-07-16 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "36.7万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i4/O1CN01vzguDj1jOSJrZB5WW_!!6000000004538-2-alipicbeacon.png_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i4/O1CN01vzguDj1jOSJrZB5WW_!!6000000004538-2-alipicbeacon.png_200x200.jpg"
+        },
+        {
+          "id": 593516963,
+          "showId": 1477335,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i2/O1CN01QCmtFd1gOxuv01vPq_!!6000000004133-0-alipicbeacon.jpg",
+          "likeNum": 478134,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "http://alilo-cloud.oss-cn-hangzhou.aliyuncs.com/movie-video/n_1477335_420112055313.mp4",
+          "poster": null,
+          "duration": 133,
+          "language": "",
+          "country": "中国大陆",
+          "type": "动画,喜剧,爱情",
+          "leadingRole": "张喆,杨天翔,唐小喜",
+          "director": "陈健喜, 李佳锴, 杨天翔",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "白蛇：浮生",
+          "remark": "9.3",
+          "features": null,
+          "openDay": "2024-08-10 00:00:00",
+          "openTime": "2024-08-10 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "47.8万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i2/O1CN01QCmtFd1gOxuv01vPq_!!6000000004133-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i2/O1CN01QCmtFd1gOxuv01vPq_!!6000000004133-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516965,
+          "showId": 1478217,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i2/O1CN01dy9GKV1Pbvez8YujV_!!6000000001860-0-alipicbeacon.jpg",
+          "likeNum": 111209,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/a2646a3b1397757890694135378/v.f42905.mp4",
+          "poster": null,
+          "duration": 115,
+          "language": "",
+          "country": "中国大陆",
+          "type": "动作,犯罪",
+          "leadingRole": "张家辉,阮经天,张榕容,马浴柯,陈国坤,张俪,江易轩,维他亚·潘斯林加姆,纳瑞拉·库尔蒙科尔佩特",
+          "director": "马浴柯",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "重生",
+          "remark": "9.0",
+          "features": null,
+          "openDay": "2024-08-16 00:00:00",
+          "openTime": "2024-08-16 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "11.1万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i2/O1CN01dy9GKV1Pbvez8YujV_!!6000000001860-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i2/O1CN01dy9GKV1Pbvez8YujV_!!6000000001860-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516961,
+          "showId": 1515757,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i3/O1CN015cZvg71a9UqYtUZq9_!!6000000003287-0-alipicbeacon.jpg",
+          "likeNum": 144638,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "https://vod.pipi.cn/43903a81vodtransgzp1251246104/834b40241397757889980328539/v.f42905.mp4",
+          "poster": null,
+          "duration": 121,
+          "language": "",
+          "country": "中国大陆",
+          "type": "剧情",
+          "leadingRole": "徐峥,辛芷蕾,王骁",
+          "director": "徐峥, 佟志坚",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "逆行人生",
+          "remark": "9.5",
+          "features": null,
+          "openDay": "2024-08-09 00:00:00",
+          "openTime": "2024-08-09 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "14.4万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i3/O1CN015cZvg71a9UqYtUZq9_!!6000000003287-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i3/O1CN015cZvg71a9UqYtUZq9_!!6000000003287-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516972,
+          "showId": 1419383,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i1/O1CN01EyIsVI1V4qkeqOKQ8_!!6000000002600-0-alipicbeacon.jpg",
+          "likeNum": 185427,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "http://alilo-cloud.oss-cn-hangzhou.aliyuncs.com/movie-video/n_1419383_346328235421.mp4",
+          "poster": null,
+          "duration": 103,
+          "language": "",
+          "country": "中国大陆",
+          "type": "剧情,喜剧,家庭",
+          "leadingRole": "葛优,王俊凯,李萍,刘威葳,耿乐,张本煜,李汀珝,赵千紫,李千逸,吕行,朱怀旭,蒋灵儿,朱亚男",
+          "director": "顾长卫",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "刺猬",
+          "remark": "9.0",
+          "features": null,
+          "openDay": "2024-08-23 00:00:00",
+          "openTime": "2024-08-23 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 1,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "18.5万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i1/O1CN01EyIsVI1V4qkeqOKQ8_!!6000000002600-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i1/O1CN01EyIsVI1V4qkeqOKQ8_!!6000000002600-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516969,
+          "showId": 1394028,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i1/O1CN01SZk9rH1ofvVaMLtmR_!!6000000005253-0-alipicbeacon.jpg",
+          "likeNum": 316254,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/85a472ec1253642696694273408/v.f42906.mp4",
+          "poster": null,
+          "duration": 97,
+          "language": "",
+          "country": "美国",
+          "type": "动画,冒险",
+          "leadingRole": "史蒂夫·卡瑞尔,大鹏,克里斯汀·韦格,皮埃尔·柯芬,乔伊·金,庄达菲",
+          "director": "克里斯·雷纳德, 帕特里克·德拉吉",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "神偷奶爸4",
+          "remark": "9.0",
+          "features": null,
+          "openDay": "2024-07-12 00:00:00",
+          "openTime": "2024-07-12 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "31.6万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i1/O1CN01SZk9rH1ofvVaMLtmR_!!6000000005253-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i1/O1CN01SZk9rH1ofvVaMLtmR_!!6000000005253-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516974,
+          "showId": 1529283,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i2/O1CN0122thxn1MXrHfpLqmX_!!6000000001445-0-alipicbeacon.jpg",
+          "likeNum": 181936,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/83ba76f21253642700719370040/v.f42905.mp4",
+          "poster": null,
+          "duration": 119,
+          "language": "",
+          "country": "中国大陆",
+          "type": "犯罪,悬疑,剧情",
+          "leadingRole": "王传君,张钧甯,吴镇宇,王圣迪",
+          "director": "柯汶利",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "默杀",
+          "remark": "9.1",
+          "features": null,
+          "openDay": "2024-07-03 00:00:00",
+          "openTime": "2024-07-03 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "18.1万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i2/O1CN0122thxn1MXrHfpLqmX_!!6000000001445-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i2/O1CN0122thxn1MXrHfpLqmX_!!6000000001445-0-alipicbeacon.jpg_200x200.jpg"
+        },
+        {
+          "id": 593516966,
+          "showId": 1491272,
+          "cityCode": 350200,
+          "backgroundPicture": "https://gw.alicdn.com/tfscom/i3/O1CN01A0bB9s1mllKFphzfE_!!6000000004995-0-alipicbeacon.jpg",
+          "likeNum": 164253,
+          "highlight": "",
+          "description": "",
+          "showVersionList": null,
+          "showMark": "",
+          "videoUrl": "https://vod.pipi.cn/fec9203cvodtransbj1251246104/3f284d6d1397757890505924070/v.f42905.mp4",
+          "poster": null,
+          "duration": 156,
+          "language": "",
+          "country": "中国大陆",
+          "type": "剧情",
+          "leadingRole": "刘昊然,约翰·库萨克",
+          "director": "陈思诚",
+          "actors": null,
+          "showNameEn": "",
+          "showName": "解密",
+          "remark": "9.3",
+          "features": null,
+          "openDay": "2024-08-03 00:00:00",
+          "openTime": "2024-08-03 00:00:00",
+          "trailerList": null,
+          "showType": 1,
+          "createTime": null,
+          "weight": null,
+          "oldWeight": null,
+          "isPreSell": 0,
+          "minNetPrice": null,
+          "scenePics": [
+
+          ],
+          "actorList": [
+
+          ],
+          "likeNumStr": "16.4万",
+          "scenePicsTotal": 0,
+          "backgroundPictureStr": "https://gw.alicdn.com/tfscom/i3/O1CN01A0bB9s1mllKFphzfE_!!6000000004995-0-alipicbeacon.jpg_800x800.jpg",
+          "backgroundPictureTiny": "https://gw.alicdn.com/tfscom/i3/O1CN01A0bB9s1mllKFphzfE_!!6000000004995-0-alipicbeacon.jpg_200x200.jpg"
+        }
+      ],
+      "hasMore": 1,
+      "totalSize": 98,
+      "uid": 42
+    },
+    "success": true
+  },
+
+  "get-cinema-list": {
+    "code": 200,
+    "message": "获取成功",
+    "data": [
+      {
+        "name": "万达影城（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "幸福蓝海（幸福蓝海广场16号234）",
+        "price": 45,
+        "priceMuch": 2.90,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "6.28"
+      },
+      {
+        "name": "万达影城2（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "万达影城3（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "万达影城4（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "万达影城5（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "万达影城6（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "万达影城7（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "万达影城8（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      },
+      {
+        "name": "万达影城9（灌口万达广场16号234）",
+        "price": 35,
+        "priceMuch": 4.20,
+        "address": "集美区龙荷二里6号厦门集美灌口万达娱乐场24号2308室",
+        "distance": "4.28"
+      }
+    ],
+    "success": true
+  },
+
+  "get-city-list": {
+    "code": 200,
+    "message": "获取成功",
+    "data": [
+      {
+        "name": "所有区域",
+        "code": 351
+      },
+      {
+        "name": "思明区",
+        "code": 352
+      },
+      {
+        "name": "集美区",
+        "code": 353
+      },
+      {
+        "name": "海沧区",
+        "code": 354
+      },
+      {
+        "name": "同安区",
+        "code": 355
+      },
+      {
+        "name": "湖里区",
+        "code": 356
+      }
+    ],
+    "success": true
+  },
+
+  "get-brand-list": {
+    "code": 200,
+    "message": "获取成功",
+    "data": [
+      {
+        "name": "万达",
+        "code": 1
+      },
+      {
+        "name": "金逸",
+        "code": 2
+      },
+      {
+        "name": "幸福蓝海",
+        "code": 3
+      },
+      {
+        "name": "中影国际",
+        "code": 4
+      },
+      {
+        "name": "CRV",
+        "code": 5
+      },
+      {
+        "name": "湖里区",
+        "code": 6
+      }
+    ],
+    "success": true
+  }
+}

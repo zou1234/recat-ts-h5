@@ -1,0 +1,50 @@
+.header-content{
+  padding: 8px 5px 10px 5px;
+  background: #fff;
+
+  &__top {
+    height: 142px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    user-select: none;
+    margin: 0 5px;
+
+    img{
+      height: 100%;
+      width: 100%;
+      border-radius: 5px;
+    }
+  }
+
+  .adm-page-indicator-dot{
+    background: #d3d0d0;
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    margin-right: 7px;
+  }
+
+  .adm-page-indicator-dot-active{
+    background: #f68f3f;
+  }
+}
+
+.nav-tabs{
+  display: flex;
+  margin-top: 20px;
+  .nav-tabs__item{
+    flex: 1;
+    text-align: center;
+
+    img{
+      width: 44px;
+      height: 44px;
+      background: #ccc;
+      border-radius: 50%;
+      margin-bottom: 5px;
+    }
+  }
+}

@@ -1,0 +1,52 @@
+.cinema-card{
+  background: #fff;
+  margin: 10px 0;
+  border-radius: 5px;
+  padding: 10px 15px;
+
+  &__info{
+    display: flex;
+  }
+
+  &__name{
+    font-size: 16px;
+    font-weight: 600;
+    max-width:65%;
+  }
+
+  &__price{
+    color: #918d8d;
+    padding: 0 6px;
+    text-decoration:line-through;
+  }
+
+  &__shengPrice{
+    &>span{
+      font-size: 16px;
+      margin: 0 3px;
+      color: #ef0a34;
+    }
+  }
+
+  &__sheng{
+    display: inline-block;
+    background: #ef0a34;
+    color: #fff;
+    padding: 0px 2px;
+    border-radius: 2px;
+    font-size: 12px;
+    height: 18px;
+    line-height: 18px;
+  }
+
+  .cinema-card__address{
+    display: flex;
+    color: #918d8d;
+    padding: 5px 0;
+  }
+
+  .cinema-card__distance{
+    margin-left: 10px;
+    line-height: 19px;
+  }
+}
